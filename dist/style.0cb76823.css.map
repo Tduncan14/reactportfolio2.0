@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets\\styles\\style.scss"],"names":[],"mappings":"AACA;EACI;EACA;;AAGA;EACI;;;AAMR;EACI","file":"style.0cb76823.css","sourceRoot":"..\\src","sourcesContent":["\r\n*{\r\n    margin:0;\r\n    box-sizing:border-box;\r\n\r\n\r\n    &:after,&:before{\r\n        box-sizing:border-box;\r\n    }\r\n}\r\n\r\n\r\n\r\nhtml,body{\r\n    overflow-x:hidden;\r\n}"]}
